@@ -1,4 +1,4 @@
-#Cybersecurity Journey README
+# Cybersecurity Journey README
 ### Introduction
 Welcome to my cybersecurity journey! I'm Emmaculate, an aspiring cybersecurity professional with a passion for protecting systems, solving problems, and helping people stay safe online. This README documents my learning path, projects, certifications, and goals as I grow in the field of cybersecurity.
 
